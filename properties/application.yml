@@ -1,5 +1,5 @@
 # Config data exposed by config server
 
-info:
+info-repo2:
   foo: bar
   someList: [2, 3, 7]
